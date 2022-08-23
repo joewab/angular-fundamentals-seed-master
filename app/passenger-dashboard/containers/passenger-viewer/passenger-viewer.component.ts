@@ -3,7 +3,6 @@ import { Component, OnInit } from "@angular/core";
 import { PassengerDashboardService } from "../../passenger-dashboard.service";
 
 import { Passenger } from "../../models/passenger.interface";
-import { timeStamp } from "console";
 
 @Component({
     selector: 'passenger-viewer',
